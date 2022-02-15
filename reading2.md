@@ -54,7 +54,9 @@ This method allows you to clean up the DOM and netwrok requests/ subscriptions.
 
 ## React State Vs Props
 
-What types of things can you pass in the props?  information you want to display.
+What types of things can you pass in the props?  
+
+- information you want to display.
 
 
 ### What is the big difference between props and state?
@@ -68,4 +70,4 @@ state you handel in side that component props are handel outside a component.
 
 ### What are some examples of things that we could store in state?
 
-data that re-render and update based on somthing the user has done.
+- data that re-render and update based on somthing the user has done.
