@@ -57,11 +57,11 @@ Try to manipulate an object with some kind of length and give it an invalid leng
 
 ### What is a ‘type error’?
 
-The types (number, string and so on) you are trying to use or access are incompatibl
+The types (number, string and so on) you are trying to use or access are incompatible.
 
 ### What is a breakpoint?
 A point where the program stops when the statement evaluates to true.
 
 ### What does the word ‘debugger’ do in your code?
 
-Let's you can see the “history” before reaching that breakpoint.
+Lets you can see the “history” before reaching that breakpoint.
